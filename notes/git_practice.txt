@@ -1,0 +1,1 @@
+Git practice note for Lumos-Sat project setup.
